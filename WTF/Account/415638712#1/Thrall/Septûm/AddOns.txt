@@ -1,0 +1,10 @@
+Blizzard_ObjectiveTracker: enabled
+Blizzard_CompactRaidFrames: enabled
+Bagnon: disabled
+Bagnon_Config: disabled
+Bagnon_GuildBank: disabled
+Bagnon_VoidStorage: disabled
+BagBrother: disabled
+DugisGuideViewerZ: disabled
+WeakAurasCompanion: enabled
+WeakAurasArchive: enabled

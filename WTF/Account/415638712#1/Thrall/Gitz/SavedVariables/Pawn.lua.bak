@@ -1,0 +1,101 @@
+
+PawnOptions = {
+	["LastVersion"] = 2.0711,
+	["LastPlayerFullName"] = "Gitz-Thrall",
+	["AutoSelectScales"] = true,
+	["ItemLevels"] = {
+		{
+			["ID"] = 155326,
+			["Level"] = 58,
+			["Link"] = "|cff0070dd|Hitem:155326::::::::50:269::25:2:1471:4785::::::|h[Ritual Flayer's Mask]|h|r",
+		}, -- [1]
+		{
+			["ID"] = 158075,
+			["Level"] = 64,
+			["Link"] = "|cffe6cc80|Hitem:158075::::::::50:269::11:4:4932:4933:4935:1478::::::|h[Heart of Azeroth]|h|r",
+		}, -- [2]
+		{
+			["ID"] = 65699,
+			["Level"] = 150,
+			["Link"] = "|cff1eff00|Hitem:65699::::::::55:269::11:1:3631:2:28:1792:9:55:::::|h[Mudsnout Spaulders]|h|r",
+		}, -- [3]
+		nil, -- [4]
+		{
+			["ID"] = 65673,
+			["Level"] = 146,
+			["Link"] = "|cff1eff00|Hitem:65673::::::::54:269::11:1:3631:2:28:1792:9:54:::::|h[Aberrant Vest]|h|r",
+		}, -- [5]
+		{
+			["ID"] = 159003,
+			["Level"] = 137,
+			["Link"] = "|cff0070dd|Hitem:159003::::::::50:269::11:2:4790:4791:1:9:47:::::|h[Ritual Flayer's Waistwrap]|h|r",
+		}, -- [6]
+		{
+			["ID"] = 158434,
+			["Level"] = 128,
+			["Link"] = "|cff1eff00|Hitem:158434::::::::50:269::11:1:4790:1:9:48:::::|h[Jambani Legwraps]|h|r",
+		}, -- [7]
+		{
+			["ID"] = 65696,
+			["Level"] = 146,
+			["Link"] = "|cff1eff00|Hitem:65696::::::::54:269::11:1:3631:2:28:1792:9:54:::::|h[Awesome Boots]|h|r",
+		}, -- [8]
+		{
+			["ID"] = 65684,
+			["Level"] = 158,
+			["Link"] = "|cff1eff00|Hitem:65684::::::::57:269::11:1:3631:2:28:1792:9:57:::::|h[Poisoned Bracers]|h|r",
+		}, -- [9]
+		{
+			["ID"] = 65685,
+			["Level"] = 168,
+			["Link"] = "|cff0070dd|Hitem:65685::::::::57:269::11:1:6691:2:28:1792:9:57:::::|h[Broken Fingers of Hillsbrad]|h|r",
+		}, -- [10]
+		{
+			["ID"] = 160985,
+			["Level"] = 148,
+			["AlsoFitsIn"] = 12,
+			["Link"] = "|cff0070dd|Hitem:160985::::::::52:269::18:1:4776:1:9:48:::::|h[Glompmaw's Ring]|h|r",
+		}, -- [11]
+		{
+			["ID"] = 160985,
+			["Level"] = 148,
+			["AlsoFitsIn"] = 11,
+			["Link"] = "|cff0070dd|Hitem:160985::::::::53:269::18:1:4776:1:9:48:::::|h[Glompmaw's Ring]|h|r",
+		}, -- [12]
+		{
+			["ID"] = 159978,
+			["Level"] = 124,
+			["AlsoFitsIn"] = 14,
+			["Link"] = "|cff1eff00|Hitem:159978::::::::50:269::11:1:4790:1:9:47:::::|h[Junji's Egg Timer]|h|r",
+		}, -- [13]
+		{
+			["ID"] = 159978,
+			["Level"] = 124,
+			["AlsoFitsIn"] = 13,
+			["Link"] = "|cff1eff00|Hitem:159978::::::::52:269::11:1:4790:1:9:47:::::|h[Junji's Egg Timer]|h|r",
+		}, -- [14]
+		{
+			["ID"] = 65697,
+			["Level"] = 170,
+			["Link"] = "|cffa335ee|Hitem:65697::::::::55:269::11:2:6691:6703:2:28:1792:9:55:::::|h[Stillwater's Cloak]|h|r",
+		}, -- [15]
+		{
+			["ID"] = 159084,
+			["Level"] = 148,
+			["AlsoFitsIn"] = 17,
+			["Link"] = "|cff0070dd|Hitem:159084::::::::52:269::11:1:4813:1:9:48:::::|h[Handscythe of the First City]|h|r",
+		}, -- [16]
+		{
+			["ID"] = 159084,
+			["Level"] = 148,
+			["AlsoFitsIn"] = 16,
+			["Link"] = "|cff0070dd|Hitem:159084::::::::53:269::11:1:4813:1:9:48:::::|h[Handscythe of the First City]|h|r",
+		}, -- [17]
+	},
+	["LastKeybindingsSet"] = 1,
+}
+PawnMrRobotScaleProviderOptions = {
+	["LastClass"] = "MONK",
+	["LastAdded"] = 1,
+}
+PawnClassicScaleProviderOptions = nil

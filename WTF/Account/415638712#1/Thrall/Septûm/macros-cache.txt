@@ -1,0 +1,3 @@
+VER 3 0100000000000001 "Hidden Artifact" "ABILITY_WARRIOR_CRITICALBLOCK"
+/run print(IsQuestFlaggedCompleted(44311))
+END

@@ -1,0 +1,59 @@
+VER 3 0000000000000011 "AAP_MACRO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/use Shattered Helm of Domination
+END
+VER 3 0000000000000002 "aggro" "Ability_Druid_Cyclone"
+/shout WAS LOS DIGGA?
+END
+VER 3 000000000000000E "Chain Heal MO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Chain Heal
+END
+VER 3 0000000000000010 "Combatlog" "INV_MISC_NOTE_05"
+/combatlog
+END
+VER 3 0000000000000006 "Decursive" "INV_MISC_QUESTIONMARK"
+/script DecursiveRootTable.Dcr:Println('No spell available')
+END
+VER 3 0000000000000012 "Fangen" "INV_MISC_QUESTIONMARK"
+#showtooltip item:174927
+/stopmacro [channeling:Catching]
+/cleartarget
+/tar Ivory Cloud Serpent
+/use Zan-Tien Lasso
+END
+VER 3 0000000000000007 "Grafik" "ABILITY_RACIAL_ROCKETJUMP"
+/console groundEffectDensity 256
+/console groundEffectDist 140
+/console detailDoodadAlpha 100
+/console horizonfarclip 2112
+/console farclip 777
+/console characterAmbient 0
+/console smallcull 0
+/console skycloudlod 3 
+END
+VER 3 0000000000000019 "hbCrashProt_5" "Spell_Holy_SealOfSacrifice"
+Rexar:33:ayer-581-09F4FA96:1:
+END
+VER 3 000000000000000F "Healing Surge MO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Surge
+END
+VER 3 000000000000000C "Healing Wave MO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Healing Wave
+END
+VER 3 0000000000000004 "Herzstoß" "Ability_Warrior_BloodBath"
+/cast Herzstoß(Rang 1)
+/cast Runenstoß
+END
+VER 3 0000000000000013 "Lunarlight" "631519"
+/tar loamy soil
+END
+VER 3 0000000000000001 "oom" "Ability_Druid_Dreamstate"
+/p oom!!
+END
+VER 3 000000000000000D "Riptide MO" "INV_MISC_QUESTIONMARK"
+#showtooltip
+/cast [@mouseover] Riptide
+END
