@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0712,
+	["LastVersion"] = 2.0713,
 	["LastPlayerFullName"] = "Semyaz-Thrall",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 193800,
-			["Level"] = 278,
-			["Link"] = "|cff0070dd|Hitem:193800::::::::60:581::18:5:9158:6652:7937:1500:4785:1:28:2155:::::|h[Vision of Foreshadowed Ends]|h|r",
+			["ID"] = 193692,
+			["Level"] = 346,
+			["Link"] = "|cff0070dd|Hitem:193692::::::::70:581::1:6:7974:6652:7936:8816:1568:8766:1:28:2549:::::|h[Stoneroot Headdress]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 199383,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199383::::::::60:581::26:3:6652:7579:8936:2:28:2425:9:60:::::|h[Torc of Calamities]|h|r",
+			["ID"] = 197990,
+			["Level"] = 332,
+			["Link"] = "|cffa335ee|Hitem:197990::::::::69:581::26:2:8774:8775:2:28:2153:9:68:::::|h[Solemn Seashell String]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 186475,
-			["Level"] = 272,
-			["Link"] = "|cffa335ee|Hitem:186475::::::::60:581::3:2:8165:6652:2:28:888:9:60:::::|h[Hellstitched Mantle]|h|r",
+			["ID"] = 198011,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198011::::::::70:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Spaulders]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 199356,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199356::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Raiment]|h|r",
+			["ID"] = 198010,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198010::::::::68:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Vest]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 199362,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199362::::::::60:581::26:3:6652:7578:8936:2:28:2425:9:60:::::|h[Dust Devil Cincture]|h|r",
+			["ID"] = 198017,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198017::::::::70:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 199360,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199360::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Dust Devil Leggings]|h|r",
+			["ID"] = 193684,
+			["Level"] = 346,
+			["Link"] = "|cff0070dd|Hitem:193684::::::::70:581::1:5:7974:6652:8816:1568:8766:1:28:2549:::::|h[Legguards of Adamant Rule]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 199357,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199357::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Treads]|h|r",
+			["ID"] = 198012,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198012::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Moccasins]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 199363,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199363::::::::60:581::26:3:6652:7578:8936:2:28:2172:9:60:::::|h[Dust Devil Wristbands]|h|r",
+			["ID"] = 195222,
+			["Level"] = 327,
+			["Link"] = "|cff1eff00|Hitem:195222::::::::70:581::26:1:7963:2:28:2390:9:70:::::|h[Magmatalon Wristguards]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 199358,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199358::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Gloves]|h|r",
+			["ID"] = 198014,
+			["Level"] = 319,
+			["Link"] = "|cff0070dd|Hitem:198014::::::::70:581::26:1:8774:2:28:2153:9:68:::::|h[Twisted Leather Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 199382,
-			["Level"] = 252,
+			["ID"] = 197989,
+			["Level"] = 306,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:199382::::::::60:581::26:3:6652:7578:8936:2:28:2425:9:60:::::|h[Catastrophe Signet]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197989::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Water Ordained Signet]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 199381,
-			["Level"] = 252,
+			["ID"] = 197989,
+			["Level"] = 306,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:199381::::::::60:581::26:3:6652:7579:8936:2:28:2425:9:60:::::|h[Seal of Elemental Disasters]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197989::::::::69:581::26:1:7963:2:9:68:28:2153:::::|h[Water Ordained Signet]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 199555,
-			["Level"] = 252,
+			["ID"] = 195219,
+			["Level"] = 327,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:199555::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Versatile Storm Lure]|h|r",
+			["Link"] = "|cff1eff00|Hitem:195219::::::::70:581::26:1:7963:2:28:2390:9:70:::::|h[Magmasworn Spearhead]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 199645,
-			["Level"] = 252,
+			["ID"] = 193697,
+			["Level"] = 296,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:199645::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Storm Hunter's Insignia]|h|r",
+			["Link"] = "|cff0070dd|Hitem:193697::::::::70:581::17:3:7978:7975:6652:2:28:2152:9:65:::::|h[Bottle of Spiraling Winds]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 199380,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199380::::::::60:581::26:2:40:8936:2:28:2425:9:60:::::|h[Cyclonic Drape]|h|r",
+			["ID"] = 200182,
+			["Level"] = 350,
+			["Link"] = "|cff0070dd|Hitem:200182::::::::70:581::25:3:41:1472:8766:1:28:2390:::::|h[Riveted Drape]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 201305,
-			["Level"] = 278,
+			["ID"] = 198003,
+			["Level"] = 319,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:201305::::::::60:581::11:1:6652:1:28:2547:::::|h[Fist of the Treasure Seeker]|h|r",
+			["Link"] = "|cff0070dd|Hitem:198003::::::::69:581::26:1:8774:2:28:2153:9:68:::::|h[Ornate Steel Cleaver]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 201305,
-			["Level"] = 278,
+			["ID"] = 198003,
+			["Level"] = 319,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:201305::::::::60:577::11:1:6652:1:28:2547:::::|h[Fist of the Treasure Seeker]|h|r",
+			["Link"] = "|cff0070dd|Hitem:198003::::::::69:581::26:1:8774:2:9:68:28:2153:::::|h[Ornate Steel Cleaver]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,

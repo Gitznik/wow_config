@@ -1,95 +1,95 @@
 
 PawnOptions = {
-	["LastVersion"] = 2.0712,
+	["LastVersion"] = 2.0713,
 	["LastPlayerFullName"] = "Semyaz-Thrall",
 	["AutoSelectScales"] = true,
 	["ItemLevels"] = {
 		{
-			["ID"] = 193800,
-			["Level"] = 278,
-			["Link"] = "|cff0070dd|Hitem:193800::::::::60:581::18:5:9158:6652:7937:1500:4785:1:28:2155:::::|h[Vision of Foreshadowed Ends]|h|r",
+			["ID"] = 198013,
+			["Level"] = 319,
+			["Link"] = "|cff0070dd|Hitem:198013::::::::69:581::26:1:8774:2:28:2153:9:68:::::|h[Twisted Leather Hood]|h|r",
 		}, -- [1]
 		{
-			["ID"] = 199383,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199383::::::::60:581::26:3:6652:7579:8936:2:28:2425:9:60:::::|h[Torc of Calamities]|h|r",
+			["ID"] = 197670,
+			["Level"] = 276,
+			["Link"] = "|cff1eff00|Hitem:197670::::::::67:581::26:1:7963:2:28:2152:9:65:::::|h[Nokhud Choker]|h|r",
 		}, -- [2]
 		{
-			["ID"] = 186475,
-			["Level"] = 272,
-			["Link"] = "|cffa335ee|Hitem:186475::::::::60:581::3:2:8165:6652:2:28:888:9:60:::::|h[Hellstitched Mantle]|h|r",
+			["ID"] = 197653,
+			["Level"] = 289,
+			["Link"] = "|cff0070dd|Hitem:197653::::::::68:581::26:2:7963:7964:2:28:2504:9:65:::::|h[Teerai Watcher Spaulders]|h|r",
 		}, -- [3]
 		nil, -- [4]
 		{
-			["ID"] = 199356,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199356::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Raiment]|h|r",
+			["ID"] = 198010,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198010::::::::68:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Vest]|h|r",
 		}, -- [5]
 		{
-			["ID"] = 199362,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199362::::::::60:581::26:3:6652:7578:8936:2:28:2425:9:60:::::|h[Dust Devil Cincture]|h|r",
+			["ID"] = 197660,
+			["Level"] = 276,
+			["Link"] = "|cff1eff00|Hitem:197660::::::::65:581::26:1:7963:2:28:2152:9:65:::::|h[Teerai Watcher Belt]|h|r",
 		}, -- [6]
 		{
-			["ID"] = 199360,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199360::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Dust Devil Leggings]|h|r",
+			["ID"] = 198015,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198015::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Breeches]|h|r",
 		}, -- [7]
 		{
-			["ID"] = 199357,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199357::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Treads]|h|r",
+			["ID"] = 198012,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198012::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Moccasins]|h|r",
 		}, -- [8]
 		{
-			["ID"] = 199363,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199363::::::::60:581::26:3:6652:7578:8936:2:28:2172:9:60:::::|h[Dust Devil Wristbands]|h|r",
+			["ID"] = 198016,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198016::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Twisted Leather Bindings]|h|r",
 		}, -- [9]
 		{
-			["ID"] = 199358,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199358::::::::60:581::26:2:6652:8936:2:28:2425:9:60:::::|h[Dust Devil Gloves]|h|r",
+			["ID"] = 197642,
+			["Level"] = 276,
+			["Link"] = "|cff1eff00|Hitem:197642::::::::68:581::26:1:7963:2:28:2243:9:65:::::|h[Teerai Watcher Gloves]|h|r",
 		}, -- [10]
 		{
-			["ID"] = 199382,
-			["Level"] = 252,
+			["ID"] = 197989,
+			["Level"] = 306,
 			["AlsoFitsIn"] = 12,
-			["Link"] = "|cff0070dd|Hitem:199382::::::::60:581::26:3:6652:7578:8936:2:28:2425:9:60:::::|h[Catastrophe Signet]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197989::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Water Ordained Signet]|h|r",
 		}, -- [11]
 		{
-			["ID"] = 199381,
-			["Level"] = 252,
+			["ID"] = 197668,
+			["Level"] = 276,
 			["AlsoFitsIn"] = 11,
-			["Link"] = "|cff0070dd|Hitem:199381::::::::60:581::26:3:6652:7579:8936:2:28:2425:9:60:::::|h[Seal of Elemental Disasters]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197668::::::::66:581::26:1:7963:2:28:2242:9:65:::::|h[Roscha's Band of Remembrance]|h|r",
 		}, -- [12]
 		{
-			["ID"] = 199555,
-			["Level"] = 252,
+			["ID"] = 197846,
+			["Level"] = 276,
 			["AlsoFitsIn"] = 14,
-			["Link"] = "|cff0070dd|Hitem:199555::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Versatile Storm Lure]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197846::::::::68:581::26:1:7963:2:28:2226:9:65:::::|h[Ohn'ahra's Carving]|h|r",
 		}, -- [13]
 		{
-			["ID"] = 199645,
-			["Level"] = 252,
+			["ID"] = 197846,
+			["Level"] = 276,
 			["AlsoFitsIn"] = 13,
-			["Link"] = "|cff0070dd|Hitem:199645::::::::60:581::26:2:6652:8936:2:28:2172:9:60:::::|h[Storm Hunter's Insignia]|h|r",
+			["Link"] = "|cff1eff00|Hitem:197846::::::::68:581::26:1:7963:2:9:65:28:2226:::::|h[Ohn'ahra's Carving]|h|r",
 		}, -- [14]
 		{
-			["ID"] = 199380,
-			["Level"] = 252,
-			["Link"] = "|cff0070dd|Hitem:199380::::::::60:581::26:2:40:8936:2:28:2425:9:60:::::|h[Cyclonic Drape]|h|r",
+			["ID"] = 198001,
+			["Level"] = 306,
+			["Link"] = "|cff1eff00|Hitem:198001::::::::69:581::26:1:7963:2:28:2153:9:68:::::|h[Tuskarr Spirit Shawl]|h|r",
 		}, -- [15]
 		{
-			["ID"] = 201305,
-			["Level"] = 278,
+			["ID"] = 198003,
+			["Level"] = 319,
 			["AlsoFitsIn"] = 17,
-			["Link"] = "|cff0070dd|Hitem:201305::::::::60:581::11:1:6652:1:28:2547:::::|h[Fist of the Treasure Seeker]|h|r",
+			["Link"] = "|cff0070dd|Hitem:198003::::::::69:581::26:1:8774:2:28:2153:9:68:::::|h[Ornate Steel Cleaver]|h|r",
 		}, -- [16]
 		{
-			["ID"] = 201305,
-			["Level"] = 278,
+			["ID"] = 197684,
+			["Level"] = 296,
 			["AlsoFitsIn"] = 16,
-			["Link"] = "|cff0070dd|Hitem:201305::::::::60:577::11:1:6652:1:28:2547:::::|h[Fist of the Treasure Seeker]|h|r",
+			["Link"] = "|cff0070dd|Hitem:197684::::::::68:581::27:1:8778:2:28:2249:9:65:::::|h[Argali Shearing Blade]|h|r",
 		}, -- [17]
 	},
 	["LastKeybindingsSet"] = 1,
